@@ -1,0 +1,11 @@
+.blog-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.blog-post {
+  width: 300px;
+  margin: 1rem;
+  text-align: left;
+  border: 2px solid #ccc;
+}
